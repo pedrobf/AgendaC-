@@ -1,0 +1,52 @@
+c:\users\axew\source\repos\AgendaX\AgendaX\bin\Debug\AgendaX.exe.config
+c:\users\axew\source\repos\AgendaX\AgendaX\bin\Debug\AgendaX.exe
+c:\users\axew\source\repos\AgendaX\AgendaX\bin\Debug\AgendaX.pdb
+c:\users\axew\source\repos\AgendaX\AgendaX\bin\Debug\EntityFramework.dll
+c:\users\axew\source\repos\AgendaX\AgendaX\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\axew\source\repos\AgendaX\AgendaX\bin\Debug\MySql.Data.dll
+c:\users\axew\source\repos\AgendaX\AgendaX\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\axew\source\repos\AgendaX\AgendaX\bin\Debug\MySql.Data.EntityFramework.dll
+c:\users\axew\source\repos\AgendaX\AgendaX\bin\Debug\Google.Protobuf.dll
+c:\users\axew\source\repos\AgendaX\AgendaX\bin\Debug\EntityFramework.xml
+c:\users\axew\source\repos\AgendaX\AgendaX\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\axew\source\repos\AgendaX\AgendaX\bin\Debug\MySql.Data.xml
+c:\users\axew\source\repos\AgendaX\AgendaX\bin\Debug\MySql.Data.Entity.EF6.xml
+c:\users\axew\source\repos\AgendaX\AgendaX\bin\Debug\MySql.Data.EntityFramework.xml
+c:\users\axew\source\repos\AgendaX\AgendaX\obj\Debug\AgendaX.csprojAssemblyReference.cache
+c:\users\axew\source\repos\AgendaX\AgendaX\obj\Debug\MainWindow.g.cs
+c:\users\axew\source\repos\AgendaX\AgendaX\obj\Debug\App.g.cs
+c:\users\axew\source\repos\AgendaX\AgendaX\obj\Debug\AgendaX_MarkupCompile.cache
+c:\users\axew\source\repos\AgendaX\AgendaX\obj\Debug\AgendaX_MarkupCompile.lref
+c:\users\axew\source\repos\AgendaX\AgendaX\obj\Debug\MainWindow.baml
+c:\users\axew\source\repos\AgendaX\AgendaX\obj\Debug\AgendaX.g.resources
+c:\users\axew\source\repos\AgendaX\AgendaX\obj\Debug\AgendaX.Properties.Resources.resources
+c:\users\axew\source\repos\AgendaX\AgendaX\obj\Debug\AgendaX.csproj.GenerateResource.cache
+c:\users\axew\source\repos\AgendaX\AgendaX\obj\Debug\AgendaX.csproj.CoreCompileInputs.cache
+c:\users\axew\source\repos\AgendaX\AgendaX\obj\Debug\AgendaX.csproj.CopyComplete
+c:\users\axew\source\repos\AgendaX\AgendaX\obj\Debug\AgendaX.exe
+c:\users\axew\source\repos\AgendaX\AgendaX\obj\Debug\AgendaX.pdb
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\bin\Debug\AgendaX.exe.config
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\bin\Debug\AgendaX.exe
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\bin\Debug\AgendaX.pdb
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\bin\Debug\EntityFramework.dll
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\bin\Debug\MySql.Data.dll
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\bin\Debug\EntityFramework.xml
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\bin\Debug\MySql.Data.xml
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\obj\Debug\AgendaX.csprojAssemblyReference.cache
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\obj\Debug\App.g.cs
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\obj\Debug\AgendaX_MarkupCompile.cache
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\obj\Debug\AgendaX_MarkupCompile.lref
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\obj\Debug\MainWindow.baml
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\obj\Debug\AgendaX.g.resources
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\obj\Debug\AgendaX.Properties.Resources.resources
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\obj\Debug\AgendaX.csproj.GenerateResource.cache
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\obj\Debug\AgendaX.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\obj\Debug\AgendaX.csproj.CopyComplete
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\obj\Debug\AgendaX.exe
+C:\Users\Pedro Ferraro\Desktop\AgendaLegal\AgendaX\AgendaX\obj\Debug\AgendaX.pdb
